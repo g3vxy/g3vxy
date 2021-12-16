@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @g3vxy
 - 👀 I’m interested in building robust web applications.
 - 🌱 I’m currently learning Rust.
-- 📫 You can reach me from <anil@berke.dev>
+- 📫 You can reach me from <anilberkesaglam@gmail.com>
